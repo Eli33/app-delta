@@ -15,13 +15,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CadastroActivity" />
-        <activity android:name=".CadastroEnderecoActivity" />
-        <activity android:name=".ProdutoActivity" />
-        <activity android:name=".CarrinhoActivity" />
-        <activity android:name=".PagamentoActivity" />
-        <activity android:name=".FinalizacaoActivity" />
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".Sobre"></activity>
     </application>
 
 </manifest>
